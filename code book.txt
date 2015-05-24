@@ -1,3 +1,16 @@
+Edit of original code book
+==========================
+The original code book is shown in the next section.
+
+This new dataset is restricted only to those variables that are measurements of the mean and standard deviations of the original set of measurements.
+
+The dataset shows the mean of all the selected variables, for each activity and each subject.
+
+The variable names are fairy self-explanatory, and are denoted according to whether they are time or frequency domain signals.
+
+
+ORIGINAL code book below:
+
 Feature Selection 
 =================
 
